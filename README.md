@@ -10,3 +10,8 @@ IPython notebook's for programming excercises in [2019764 - machine learning cla
 - [Español english SVM](http://nbviewer.ipython.org/github/jaundavid/2019764/blob/master/EnglishSpanish-svm.ipynb)
 - [Digit classification](http://nbviewer.ipython.org/github/jaundavid/2019764/blob/master/Digit%20classification.ipynb)
 - [Mass Center](http://nbviewer.ipython.org/github/jaundavid/2019764/blob/master/Mass%20center.ipynb)
+
+
+*Presentations*
+
+[Deep Boltzmannn Machines](http://jaundavid.github.io/DBM), slides written using [reveal-js](https://github.com/hakimel/reveal.js)
