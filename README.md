@@ -15,3 +15,9 @@ IPython notebook's for programming excercises in [2019764 - machine learning cla
 *Presentations*
 
 [Deep Boltzmannn Machines](http://jaundavid.github.io/DBM), slides written using [reveal-js](https://github.com/hakimel/reveal.js)
+
+*Assignment four*
+
+Python implementation of [UFLDL tutorial] (http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial).
+
+-[Sparse autoenconder] (http://nbviewer.ipython.org/github/jaundavid/2019764/blob/master/SparseAutoenconder.ipynb)
